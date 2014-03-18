@@ -2,6 +2,9 @@
 <manifest>
 
   <remote  name="aosp"
+           fetch="https://android.googlesource.com"
+           review="android-review.googlesource.com" />
+  <remote  name="github"
            fetch=".." />
   <default revision="refs/tags/android-4.4.2_r2"
            remote="aosp"
