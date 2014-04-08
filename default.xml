@@ -427,6 +427,7 @@
   <!-- Added git project -->
   <project path="manifests" name="XuQiufeng/mandroid" remote="github" revision="master"/>
   <project path="external/busybox" name="CyanogenMod/android_external_busybox" remote="github" revision="stable/cm-11.0"/>
+  <project path="kernel" name="XuQiufeng/kernel_msm" remote="github" revision="mako_kk_mr1" />
   <!-- Removes git project -->
   <!--<project path="device/generic/armv7-a-neon" name="device/generic/armv7-a-neon" groups="pdk" /> -->
   <!--<project path="device/generic/common" name="device/generic/common" groups="pdk" /> -->
